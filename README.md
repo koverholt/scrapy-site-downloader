@@ -20,3 +20,5 @@ HTML files from a given website, domain, and URL filters.
 1. Refer to the
    [Scrapy documentation](https://docs.scrapy.org/en/latest/topics/practices.html)
    for best practices and other configuration options
+1. When the crawler finishes, the HTML files will be located in the `/html`
+   directory
